@@ -1,0 +1,41 @@
+.header{
+   
+    background-color: #264653;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+.purchase-btn{
+    background-color: #E76F51;
+    border: none;
+}
+
+.text-color{
+    color: #E76F51;
+}
+
+.text-decoration{
+    text-decoration: none;
+}
+
+.grayscale{
+    filter: grayscale(100%);
+}
+
+.fas{
+    color: #E77C40;
+}
+
+.far{
+    color: #E77C40;
+}
+
+.image-width{
+    width: 50%;
+}
+
+.faq-image{
+    width: 75%;
+}
